@@ -5,7 +5,7 @@ Formation : La Plateforme
 
 ## Présentation
 - 📄 [Version PDF](presentation/Configurations_Materielles_Virtualisation.pdf)
-- 🔗 [Lien Google Slides](COLLE_ICI_TON_LIEN)
+- 🔗 [Lien Google Slides](https://docs.google.com/presentation/d/10VxH_zcZ8wAb3R6vWMNPSjsp0_WQxjfkBGvoeqd4rlU/edit?usp=sharing)
 
 ## Contenu
 
@@ -18,12 +18,6 @@ Formation : La Plateforme
 | 11 à 15 | Debian 13 : installation, commandes, utilisateurs, Chrome |
 | 16 | Réseau NAT / ping entre VMs |
 | 17 | Réseau de test : Debian (NAT + host-only) et Windows 11 |
-| 18 | SSH / SCP (à venir) |
 
-## Topologie du Job 17
 
-| Machine | Interface | Type | IP |
-|---|---|---|---|
-| Debian | ens160 | NAT | 192.168.146.130/24 |
-| Debian | ens256 | Host-only | 192.168.56.10/24 |
-| Windows 11 | Ethernet0 | NAT | 192.168.146.129/24 |
+
